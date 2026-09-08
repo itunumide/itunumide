@@ -32,7 +32,7 @@
 
 **Languages & Frameworks** <br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&perline=8" /> </a>
 
-**Backend, Database & Services** <br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,supabase&perline=8" /> </a>
+**Backend, Database & Services** <br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=firebase,supabase&perline=8" /> </a>
 
 **Tools & Platforms** <br> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&perline=8" /> </a>
 
