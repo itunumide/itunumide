@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://itunu-i-raji.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/itunumide)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/itunu-raji/)
 
 </div>
 
@@ -48,7 +48,6 @@
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :------------------------------ |
 | **HappStock**              | Cross-platform inventory and stock management application designed to help businesses manage products and inventory efficiently. | React Native, Expo, Nativewind  |
 | **NewHRM**                 | Employee management system for managing employees, payroll, and HR-related operations.                                           | React, Vite, Tailwind CSS       |
-| **My Daily Journal**       | A personal journaling application built during a hackathon with Firebase-powered data storage.                                   | HTML, CSS, JavaScript, Firebase |
 | **Car Rental App**         | Modern car rental platform with responsive interfaces and reusable components.                                                   | Next.js, Tailwind CSS           |
 | **YouTube Clone**          | Video-focused web application built to strengthen frontend development and API integration skills.                               | React, JavaScript, CSS          |
 | **Social Media Dashboard** | Responsive dashboard interface for displaying and managing social media data.                                                    | React, JavaScript, CSS          |
@@ -98,7 +97,7 @@ I'm open to **frontend development opportunities, collaborations, internships, a
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/itunu-raji/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
